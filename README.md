@@ -10,4 +10,4 @@ In this tutorial, you will find how to use Python to do basic image processing. 
 
 After downloaded this notebook and sample images, you can start running the notebook in your local Jupyter Lab. 
 
-To run this notebook in Google Colaboratory, you can go to [this link](https://colab.research.google.com/github/Mengdi-hub/planet_image_processing)
+To run this notebook in Google Colaboratory, you can go to [this link](https://colab.research.google.com/github/Mengdi-hub/planet_image_processing).
