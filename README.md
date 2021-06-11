@@ -1,7 +1,7 @@
 # Image Processing with Python
 In this tutorial, you will find how to use Python to do basic image processing. You can use your own image or the default images provided in the images folder. 
 
-# System Prerequisites:
+## System Prerequisites:
 - [Jupyter Lab](https://jupyter.org/)
 - [Python 3](https://www.python.org/downloads/)
 - [SciPy](https://www.scipy.org/)
